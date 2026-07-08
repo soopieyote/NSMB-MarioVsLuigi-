@@ -7,6 +7,8 @@
 
 ---
 
+Oh, you'll see >:3
+
 A Unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
 
 Includes the 5 default levels (Grassland, Bricks, Castle, Pipes, and Ice), along with a handful of custom levels to battle on! 
@@ -215,6 +217,7 @@ Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLui
 
 ---
 <p align="center">
+  Original fan game by:<br><br>
   <a href="https://twitter.com/ipodtouch0218">
     <img src="https://raw.githubusercontent.com/ipodtouch0218/NSMB-MarioVsLuigi/refs/heads/nightly/Assets/Sprites/UI/Menu/logo.png" alt="INFENEK GAMES Logo" width="240px">
   </a>
